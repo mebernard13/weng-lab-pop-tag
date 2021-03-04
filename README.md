@@ -23,7 +23,7 @@ Any publications that are on LitCovid and not within the scope should be removed
 
 Some abstracts do not have mention of unique sections with the following format or similar (in most cases, the section names would be bolded or italicized and include a colon):
 
-[sample_study](https://github.com/mebernard13/weng-lab-pop-tag/blob/main/sample_study.png)
+![sample_study](https://github.com/mebernard13/weng-lab-pop-tag/blob/main/sample_study.png)
 
 For those situations, just tag the population to the overal Abstract and locate *patient*, *patients*, *case*,*cases* as well as some form of COVID-19 or related severity terminology. Some sample situations are below:
 
