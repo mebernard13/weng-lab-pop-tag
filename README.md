@@ -21,11 +21,11 @@ Any publications that are on LitCovid and not within the scope should be removed
 
 ### Step 3: Identify mention of "patients" or "cases" within the abstract
 
-Some abstracts do not have mention of unique sections with the following format or similar (in most cases, the section names would be bolded or italicized and include a colon):
+Some abstracts do not have mention of unique sections with the following format or similar (in most cases, the section names would be bolded or italicized and at minimum usually include a colon):
 
 <img src="https://github.com/mebernard13/weng-lab-pop-tag/blob/main/sample_study.png" width="500">
 
-For those situations, just tag the population to the overal Abstract and locate *patient*, *patients*, *case*,*cases* as well as some form of COVID-19 or related severity terminology. Some sample situations are below:
+For those situations, just tag the population to the overal Abstract and locate *patient*, *patients*, *case*, *cases* as well as some form of COVID-19 or related severity terminology. Some sample situations are below:
 
 - Critically ill *patients* with SARS-CoV-2
 - *Patients* with confirmed COVID-19 pneumonia
