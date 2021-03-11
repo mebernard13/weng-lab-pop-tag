@@ -1,6 +1,6 @@
 # weng-lab-pop-tag
 
-Methodology for identifying populations in LitCovid publication abstracts
+Methodology for identifying populations in LitCovid publication abstracts. Link to PICO Parser Project [here](https://github.com/hl2659/PICOElementMapProject).
 
 ## Manual Methodology
 
