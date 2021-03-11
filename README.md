@@ -43,7 +43,6 @@ Based on the adjectives associated with the patients involved in the study of in
 - COVID-19
 - MERS
 - SARI
-- PED
 
 Note: confirm that any populations that are not COVID-19 are still within the scope of this project.
 
