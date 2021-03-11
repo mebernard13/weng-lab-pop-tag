@@ -1,6 +1,6 @@
 # weng-lab-pop-tag
 
-Methodology for identifying population tags in LitCovid publication abstracts
+Methodology for identifying populations in LitCovid publication abstracts
 
 ## Manual Methodology
 
