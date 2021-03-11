@@ -3,7 +3,7 @@
 Methodology for identifying populations in LitCovid publication abstracts. For reference to other relevant repos, please refer to:
 
 - [PICO Parser](https://github.com/Tian312/PICO_Parser)
-- [Element Mapping](https://github.com/hl2659/PICOElementMapProject).
+- [Element Mapping](https://github.com/hl2659/PICOElementMapProject)
 
 ## Manual Methodology
 
