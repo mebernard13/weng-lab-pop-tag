@@ -15,7 +15,7 @@ PMIDs are 8-digit unique identifiers for each publication within the LitCovid da
 In order to be within the scope of the project, the publication must be:
 
 1. Related to COVID-19
-2. Involving human subjects on the clinical level
+2. Involving human subjects at the clinical level
 
 Any publications that are on LitCovid and not within the scope should be removed from consideration.
 
@@ -32,7 +32,7 @@ For those situations, just tag the population to the overal Abstract and locate 
 - *Cases* of novel coronavirus disease (COVID-19)
 - *Patients* with severe disease
 
-To pick up the systematic pattern text, if the *patient* or *case* noun does not have a preposition immediately following *(e.g., of, with, etc.)* then try to include verbiage before the noun that are adjectives/descriptive nouns, especially if they contain words associated with COVID-19 *(e.g., SARS, coronavirus, severe, etc.)*. Otherwise, include both adjectives/descriptive nouns and then the prepositional phrases after the noun mention.
+To pick up the systematic pattern text, if the *patient* or *case* noun does not have a preposition immediately following *(e.g., of, with, etc.)* then try to include verbiage before the noun that has adjectives/descriptive nouns, especially if they contain words associated with COVID-19 *(e.g., SARS, coronavirus, severe, etc.)*. Otherwise, include both adjectives/descriptive nouns and then the prepositional phrases after the noun mention.
 
 For situations where the abstracts are sectioned off with *(for instance, an Objective, Background, etc.)* then also tag the populations to their appropriate sections.
 
@@ -43,8 +43,6 @@ Based on the adjectives associated with the patients involved in the study of in
 - COVID-19
 - MERS
 - SARI
-
-Note: confirm that any populations that are not COVID-19 are still within the scope of this project.
 
 ## Installation
 
