@@ -15,10 +15,10 @@ PMIDs are 8-digit unique identifiers for each publication within the LitCovid da
 
 ### Step 2: Confirm that the publication is within the scope of the COVID-19 PICO project
 
-In order to be within the scope of the project, the publication must be:
+In order to be within the scope of the project, the publication must:
 
-1. Related to COVID-19
-2. Involving human subjects at the clinical level
+1. Be related to COVID-19
+2. Involve human subjects at the clinical level
 
 Any publications that are on LitCovid and not within the scope should be removed from consideration.
 
